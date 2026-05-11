@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  background: #083d44;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  background: rgb(49, 154, 189);
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(119, 178, 197);
+  text-align: center;
+}
+
+input{
+  padding: 10px;
+  border-radius: 5px;
+}
+ button {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  background-color: navy;
+  color: yellow;
+  font-weight: bolder;
+}
